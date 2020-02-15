@@ -14,4 +14,6 @@ The total fares over the period of 01/01/2019 to 04/28/2019 graph shows that urb
 
 ## Implications 
 
-Urban cities were generating the highest total fares because they had the highest number of drivers available.  However, it shows that the rides were mostly shorter rides, resulting in the lowest average fare per ride.  It also shows that rural cities were underperforming in total fares because of the low number of drivers available.  The average number of rides per driver is 1.6 compared to 0.67 per driver in urban cities. The higher average fare per ride also indicates longer distances per ride.  Therefore Pyber would benefit from investing in more drivers in rural cities to generate a higher total fare. 
+Urban cities were generating the highest total fares because there were the highest number of drivers available.  However, it shows that the lowest average fare per ride could result from shorter rides.  
+
+It also shows that rural cities were lowest in total fares because of the low number of drivers available.  The average number of rides per driver is 1.6 compared to 0.67 per driver in urban cities. The highest average fare per ride also indicates longer distances per ride in rural cities.  Therefore Pyber would benefit from investing in more drivers in rural cities to generate a higher total fare. 
